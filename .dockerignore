@@ -1,0 +1,29 @@
+# Node modules
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Git files
+.git
+.gitignore
+
+# Build output folders
+dist
+build
+
+# Prisma client generated folder
+src/generated/prisma
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode
+.idea
